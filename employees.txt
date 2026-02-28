@@ -1,0 +1,4 @@
+Salaried,Jacek Rak,101,1200.0
+Hourly,Bob Jones,102,25.0,40.0
+Hourly,Charlie Brown,103,20.0,40.0,30.0,10.0
+Salaried,Dave Defect,104,-500.0
