@@ -4,7 +4,7 @@ Payment managing system
 - allows both hourly and salaried employees
 
 Usage:
--./payroll_app for running an example
--make and make clean for compiling
+- ./payroll_app for running an example
+- make and make clean for compiling
 
 Written in c++17
